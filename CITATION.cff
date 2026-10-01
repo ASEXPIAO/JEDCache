@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this core implementation, cite this software and its accompanying manuscript."
+title: "JEDCache: Joint-Error-Driven Caching for Faster Four-Branch Video Editing"
+type: software
+version: 0.1.0
+date-released: 2026-10-01
+authors:
+  - family-names: Zhao
+    given-names: Yibing
+  - family-names: Cheng
+    given-names: Mingzhi
+  - family-names: Wang
+    given-names: Hongjuan
+  - family-names: Li
+    given-names: Xu
+  - family-names: Yang
+    given-names: Jiashu
+  - family-names: Xue
+    given-names: Yatian
+  - family-names: Liu
+    given-names: Long
+license: MIT
